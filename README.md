@@ -1,1 +1,1 @@
-# btrade Btrade Cahrt View
+# btrade Btrade Chart View
